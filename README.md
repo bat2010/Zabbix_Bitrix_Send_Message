@@ -6,5 +6,5 @@
 <https://helpdesk.bitrix24.ru/open/20886106/?ysclid=mn4q2kr8y8671352686>
 ### 1.3 Создание чата
 <https://helpdesk.bitrix24.ru/open/25440238/?ysclid=mn4q5j7y5x481667462>
-## 2. Настьройка Zabbix
+## 2. Настройка Zabbix
 
