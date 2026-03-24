@@ -7,4 +7,4 @@
 ### 1.3 Создание чата
 <https://helpdesk.bitrix24.ru/open/25440238/?ysclid=mn4q5j7y5x481667462>
 ## 2. Настройка Zabbix
-![Изображение](image/create_notify.png)
+![Изображение](Image/Сreate_notify.png)
