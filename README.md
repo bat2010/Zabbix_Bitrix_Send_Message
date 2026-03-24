@@ -11,7 +11,7 @@
 Добавить способ оповещения, заменив webhook_URL на свой веб хук.
 В раздел Скрипт добавить
 
-```java-script
+```java
 var BitrixHook = {
     webhook: null,
     to: null,
